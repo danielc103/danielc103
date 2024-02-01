@@ -5,7 +5,7 @@
 
 ### About Me Stuff
 
-- 🔭 I’m currently working at Infinia ML
+- 🔭 I’m currently working at Veda Data
 - 🌱 I love to learn about everything in the technology world.
 - 👯 A goal I have...is to contribute more to Open Source projects!!!
 - ⚡ I'm addicted to sci-fi be it novels or tv.
